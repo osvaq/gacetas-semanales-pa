@@ -2,6 +2,7 @@
 
 Skill para [Claude Cowork](https://claude.ai) que genera un **resumen semanal de todas las normas publicadas en la Gaceta Oficial de Panamá**: leyes, decretos ejecutivos, decretos de gabinete, resoluciones, acuerdos municipales, avisos y edictos, con enlace al PDF oficial de cada norma.
 
+Autor: Osvaldo Quintero
 ---
 
 ## Qué hace
